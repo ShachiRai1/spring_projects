@@ -1,4 +1,4 @@
 spring_projects
 ===============
 
-spring_projects_edited 
+spring_projects
